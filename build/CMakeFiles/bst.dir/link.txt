@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11   CMakeFiles/bst.dir/src/BinarySearchTree.cpp.o CMakeFiles/bst.dir/src/BinaryNodeTree.cpp.o CMakeFiles/bst.dir/src/BinaryNode.cpp.o CMakeFiles/bst.dir/test/main.cpp.o  -o bst -rdynamic -lm 
